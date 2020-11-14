@@ -1,0 +1,33 @@
+<!--pages/survey5/survey5.wxml-->
+<view class='main'>
+  <text>艾森克人格分析调查问卷</text>
+</view>
+<view>81.你愿意别人怕你吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>82.你是否觉得有时浑身是劲，而有时又是懒洋洋的吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>83.你有时把今天应做的事拖到明天去做吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>84.别人认为你是生气勃勃吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>85.别人是否对你说了许多谎话？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>86.你是否容易对某些事物容易冒火？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>87.当你犯了错误时，你是否常常愿意承认它？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>88.你会为一动物落入圈套被捉拿而感到很难过吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view class='main'> 
+<navigator url="/pages/survey4/survey4">上一页</navigator>
+<text style="white-space:pre-wrap"> 5/5 </text>
+<navigator >提交</navigator>
+</view>

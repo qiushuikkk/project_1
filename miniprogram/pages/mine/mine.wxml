@@ -1,0 +1,36 @@
+<!--pages/mine/mine.wxml-->
+<!--背景-->
+<view class="user_info_wrap">
+  <view wx:if="{{userinfo.avatarUrl}}" class="user_img_wrap">
+    <image class="user_bg" src="{{userinfo.avatarUrl}}" ></image>
+    <view class="user_info">
+      <image class="user_icon" src="{{userinfo.avatarUrl}}"></image>
+      <view class="user_name">{{userinfo.nickName}}</view>
+    </view>
+  </view>
+  <view wx:else class="user_btn">
+    <navigator url="/pages/login/login">登录</navigator>
+  </view>
+</view>
+<!--文字-->
+<view class="user_content">
+  <view class="user_main">
+    <!-- 历史记录 -->
+    <view class="history_wrap">
+      历史记录
+    </view>
+    <!-- 应用信息相关 -->
+    <view class="app_info_wrap">
+      <view class="app_info_item app_info_contact">
+        <text>联系客服</text>
+        <text>800-800-8820</text>
+      </view>
+      <navigator url="/pages/feedback/feedback" class="app_info_item">意见反馈</navigator>
+      <view class="app_info_item">关于我们</view>
+    </view>
+    <!-- 推荐 -->
+    <view class="recommend_wrap">
+      把应用推荐给其他人
+    </view>
+  </view>
+</view>

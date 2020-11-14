@@ -1,0 +1,70 @@
+<!--pages/survey2/survey2.wxml-->
+<view class='main'>
+  <text>艾森克人格分析调查问卷</text>
+</view>
+<view>21.在社交场合你是否总不愿露头角？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>22.你会服用奇异或危险作用的药物吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>23.你常有“厌倦”之感吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>24.你曾拿过别人的东西吗（那怕一针一线）？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>25.你是否常爱外出？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>26.你是否从伤害你所宠爱的人而感到乐趣？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>27.你常为有罪恶之感所苦恼吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>28.你在谈论中是否有时不懂装懂？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>29.你是否宁愿去看书而不愿去多见人？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>30.你有要伤害你的仇人吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>31.你觉得自己是一个神经过敏的人吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>32.对人有所失礼时你是否经常要表示歉意？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>33.你有许多朋友吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>34.你是否喜爱讲些有时确能伤害人的笑话？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>35.你是一个多忧多虑的人吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>36.你在童年是否按照吩咐要做什么便做什么，毫无怨言？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>37.你认为你是一个乐天派吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>38.你很讲究礼貌和整洁吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>39.你是否总在担心会发生可怕的事情？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>40.你曾损坏或遗失过别人的东西吗？</view>
+<checkbox>是</checkbox>  
+<checkbox>否</checkbox>
+<view class='main'>
+<navigator url="/pages/survey/survey">上一页 </navigator>
+<text style="white-space:pre-wrap"> 2/5 </text>
+<navigator url="/pages/survey3/survey3">下一页</navigator>
+</view>
+

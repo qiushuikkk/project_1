@@ -1,0 +1,71 @@
+<!--pages/survey3/survey3.wxml-->
+<view class='main'>
+  <text>艾森克人格分析调查问卷</text>
+</view>
+<view>41.交新朋友时一般是你采取主动吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>42.当别人向你诉苦时，你是否容易理解他们的苦哀？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>43.你认为自己很紧张，如同“拉紧的弦”一样吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>44.在没有废纸篓时，你是否将废纸扔在地板上？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>45.当你与别人在一起时，你是否言语很少？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>46.你是否认为结婚制度是过时了，应该废止？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>47.你是否有时感到自己可怜？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>48.你是否有时有点自夸？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>49.你是否很容易将一个沉寂的集会搞得活跃起来？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>50.你是否讨厌那种小心翼翼地开车的人？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>51.你为你的健康担忧吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>52.你曾讲过什么人的坏话吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>53.你是否喜欢对朋友讲笑话和有趣的故事？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>54.你小时候曾对父母粗暴无礼吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>55.你是否喜欢与人混在一起？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>56.你如知道自己工作有错误，这会使你感到难过吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>57.你患失眠吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>58.你吃饭前必定洗手吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>59.你常无缘无故感到无精打采和倦怠吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>60.和别人玩游戏时，你有过欺骗行为吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view class='main'>
+  <navigator url="/pages/survey2/survey2">上一页</navigator>
+<text style="white-space:pre-wrap"> 3/5 </text>
+<navigator url="/pages/survey4/survey4">下一页</navigator>
+</view>
+
+

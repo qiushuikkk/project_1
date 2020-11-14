@@ -1,0 +1,69 @@
+<!--pages/survey4/survey4.wxml-->
+<view class='main'>
+  <text>艾森克人格分析调查问卷</text>
+</view>
+<view>61.你是否喜欢从事一些动作迅速的工作？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>62.你的母亲是一位善良的妇人吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>63.你是否常常觉得人生非常无味？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>64.你曾利用过某人为自己取得好处吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>65.你是否常常参加许多活动，超过你的时间所允许？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>66.是否有几个人总在躲避你？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>67.你是否为你的容貌而非常烦恼？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>68.你是否觉得人们为了未来有保障而办理储蓄和保险所花的时间太多？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>69.你曾有过不如死了为好的愿望吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>70.如果有把握永远不会被别人发现，你会逃税吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>71.你能使一个集会顺利进行吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>72.你能克制自己不对人无礼吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>73.遇到一次难堪的经历后，你是否在一段很长的时间内还感到难受？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>74.你患有“神经过敏”吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>75.你曾经故意说些什么来伤害别人的感情吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>76.你与别人的友谊是否容易破裂，虽然不是你的过错？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>77.你常感到孤单吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>78.当人家寻你的差错,找你工作中的缺点时,你是否容易在精神上受挫伤？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>79.你赴约会或上班曾迟到过吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view>80.你喜欢忙忙碌碌地过日子吗？</view>
+<checkbox>是</checkbox> 
+<checkbox>否</checkbox>
+<view class='main'>
+  <navigator url="/pages/survey3/survey3">上一页</navigator>
+<text style="white-space:pre-wrap"> 4/5 </text>
+<navigator url="/pages/survey5/survey5">下一页</navigator>
+</view>
